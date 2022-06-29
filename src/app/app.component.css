@@ -1,0 +1,38 @@
+/* .example-card {
+    max-width: 400px;
+    
+
+}
+
+.example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+}
+
+.example-box.cdk-drag-animating {
+    transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.example-chip .cdk-drop-list-dragging {
+    transition: transform 250ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+mat-divider{
+    margin-top: 5px;
+    padding: 5px;
+}
+img{
+    vertical-align: middle;
+    padding: 7px;
+} */
+
+
+table {
+    width: 100%;
+  
+  }
+mat-icon{
+    margin-left: 100px;
+    background-color: rgb(233, 10, 10);
+    padding: 10px;
+}
